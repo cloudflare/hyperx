@@ -21,7 +21,7 @@ exclude = [
 build = "build.rs"
 
 [dependencies]
-base64              = "0.13"
+base64              = "0.21"
 bytes               = "1"
 http                = "0.2.2"
 httpdate            = "1"
